@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
+const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("@adiwajshing/baileys")).default;
 
 let handler = async (message, { conn, text }) => {
     if (!text) return conn.sendMessage(message.chat, { text: '*_🩶البحث في ايكوتوك🩵_*' }, { quoted: message });
