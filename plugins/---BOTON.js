@@ -1,12 +1,12 @@
 /**
- * @type {import("baileys")}
+ * @type {import("@adiwajshing/baileys")}
  */
 const {
   proto,
   generateWAMessage,
   areJidsSameUser,
   decryptPollVote
-} = (await import("baileys")).default;
+} = (await import("@adiwajshing/baileys")).default;
 
 export async function all(m, chatUpdate) {
   /* if (m.message.pollUpdateMessage) {
