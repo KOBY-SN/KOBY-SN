@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
- figlet: 'silanalite', // create a start console display
+ nomerbot : '212714330227',
+ pairingNumber : '212714330227',
+ figlet: '🖤KOBY-BOT🩶', // create a start console display
  nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nameown : 'EK KOUBY',
+ nomerown : '212697516526',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : '🖤KOBY-BOT🩶',
+ namebot : '乂 KOBY-BOT',
+ wm : '🩶KOBY-BOT🖤',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : '🖤KOBY-BOT'🩶,
  jid: '@s.whatsapp.net'
 }
 
@@ -64,7 +64,7 @@ global.payment = {
 }
 // Info Wait
 global.msg = {
- wait: '⏱️ *يرجى التحلي بالصبر*\n\> نحاول تلبية طلبكم ...',
+ wait: '> *_🩶WAIT 🖤 ●●○○ جاري التحميل إنتظر_*',
  eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *Silana Ai*. There was an error in the system while executing the command.'
 }
  
