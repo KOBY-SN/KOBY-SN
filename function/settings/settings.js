@@ -25,7 +25,7 @@ global.info = {
  namebot : '乂 KOBY-BOT',
  wm : '🩶KOBY-BOT🖤',
  stickpack : 'Whatsapp',
- stickauth : '🖤KOBY-BOT'🩶,
+ stickauth : '🖤KOBY-BOT🩶',
  jid: '@s.whatsapp.net'
 }
 
